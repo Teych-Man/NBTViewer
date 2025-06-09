@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="nbtviewer"
+version="1.0.0"
+displayName="NBT Viewer"
+description='''
+Forge мод для Minecraft 1.20.1, который показывает NBT-теги предмета в левом верхнем углу
+при наведении на слот во всех контейнерах и поддерживает прокрутку колесиком мыши.
+'''
